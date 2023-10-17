@@ -1,6 +1,7 @@
 ;Programa Soma de dois números de 1 dígito
 ;Introdução ao Assembly
-;Author: Lucas Nakamura Rodrigues, FEAP - Engenharia da Computação
+;Author: Lucas Nakamura Rodrigues, FEAP
+;Version: Lucas Nakamura Rodrigues, curso Engenharia da Computação
 SYS_EXIT        equ 1
 SYS_READ        equ 3
 SYS_WRITE       equ 4
